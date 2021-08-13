@@ -665,7 +665,7 @@ The easiest way to interact with our dapp in a browser is through [MetaMask](htt
 
    ![Improve MetaMask](/img/tutorials/pet-shop/metamask-analytics.png "Improve MetaMask")
 
-1. In the box marked **Wallet Seed**, enter the mnemonic that is displayed in Ganache.
+1. In the box marked **Wallet Seed**, enter the mnemonic that is displayed in Ganache. If your MetaMask does not show the **Wallet Seed** box, import your account by pasting the private key of one of your Ganache Wallets. You can reveal the key by clicking on the key symbol right on one of your Wallets under the "Accounts"-Tab.
 
    <p class="alert alert-danger">
    **Warning**: Do not use this mnemonic on the main Ethereum network (mainnet). If you send ETH to any account generated from this mnemonic, you will lose it all!
